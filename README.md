@@ -3,4 +3,4 @@
 
 #vs
 =======
-#jupyter and main and vs
+#main
